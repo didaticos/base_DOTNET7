@@ -1,0 +1,15 @@
+/Users/diogocsantos/Projects/base_DOTNET7/StringInterpolatedNewLine/bin/Debug/net7.0/StringInterpolatedNewLine
+/Users/diogocsantos/Projects/base_DOTNET7/StringInterpolatedNewLine/bin/Debug/net7.0/StringInterpolatedNewLine.deps.json
+/Users/diogocsantos/Projects/base_DOTNET7/StringInterpolatedNewLine/bin/Debug/net7.0/StringInterpolatedNewLine.runtimeconfig.json
+/Users/diogocsantos/Projects/base_DOTNET7/StringInterpolatedNewLine/bin/Debug/net7.0/StringInterpolatedNewLine.dll
+/Users/diogocsantos/Projects/base_DOTNET7/StringInterpolatedNewLine/bin/Debug/net7.0/StringInterpolatedNewLine.pdb
+/Users/diogocsantos/Projects/base_DOTNET7/StringInterpolatedNewLine/obj/Debug/net7.0/StringInterpolatedNewLine.csproj.AssemblyReference.cache
+/Users/diogocsantos/Projects/base_DOTNET7/StringInterpolatedNewLine/obj/Debug/net7.0/StringInterpolatedNewLine.GeneratedMSBuildEditorConfig.editorconfig
+/Users/diogocsantos/Projects/base_DOTNET7/StringInterpolatedNewLine/obj/Debug/net7.0/StringInterpolatedNewLine.AssemblyInfoInputs.cache
+/Users/diogocsantos/Projects/base_DOTNET7/StringInterpolatedNewLine/obj/Debug/net7.0/StringInterpolatedNewLine.AssemblyInfo.cs
+/Users/diogocsantos/Projects/base_DOTNET7/StringInterpolatedNewLine/obj/Debug/net7.0/StringInterpolatedNewLine.csproj.CoreCompileInputs.cache
+/Users/diogocsantos/Projects/base_DOTNET7/StringInterpolatedNewLine/obj/Debug/net7.0/StringInterpolatedNewLine.dll
+/Users/diogocsantos/Projects/base_DOTNET7/StringInterpolatedNewLine/obj/Debug/net7.0/refint/StringInterpolatedNewLine.dll
+/Users/diogocsantos/Projects/base_DOTNET7/StringInterpolatedNewLine/obj/Debug/net7.0/StringInterpolatedNewLine.pdb
+/Users/diogocsantos/Projects/base_DOTNET7/StringInterpolatedNewLine/obj/Debug/net7.0/StringInterpolatedNewLine.genruntimeconfig.cache
+/Users/diogocsantos/Projects/base_DOTNET7/StringInterpolatedNewLine/obj/Debug/net7.0/ref/StringInterpolatedNewLine.dll

@@ -1,0 +1,15 @@
+/Users/diogocsantos/Projects/base_DOTNET7/MembrosRequeridos/bin/Debug/net7.0/MembrosRequeridos
+/Users/diogocsantos/Projects/base_DOTNET7/MembrosRequeridos/bin/Debug/net7.0/MembrosRequeridos.deps.json
+/Users/diogocsantos/Projects/base_DOTNET7/MembrosRequeridos/bin/Debug/net7.0/MembrosRequeridos.runtimeconfig.json
+/Users/diogocsantos/Projects/base_DOTNET7/MembrosRequeridos/bin/Debug/net7.0/MembrosRequeridos.dll
+/Users/diogocsantos/Projects/base_DOTNET7/MembrosRequeridos/bin/Debug/net7.0/MembrosRequeridos.pdb
+/Users/diogocsantos/Projects/base_DOTNET7/MembrosRequeridos/obj/Debug/net7.0/MembrosRequeridos.csproj.AssemblyReference.cache
+/Users/diogocsantos/Projects/base_DOTNET7/MembrosRequeridos/obj/Debug/net7.0/MembrosRequeridos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/diogocsantos/Projects/base_DOTNET7/MembrosRequeridos/obj/Debug/net7.0/MembrosRequeridos.AssemblyInfoInputs.cache
+/Users/diogocsantos/Projects/base_DOTNET7/MembrosRequeridos/obj/Debug/net7.0/MembrosRequeridos.AssemblyInfo.cs
+/Users/diogocsantos/Projects/base_DOTNET7/MembrosRequeridos/obj/Debug/net7.0/MembrosRequeridos.csproj.CoreCompileInputs.cache
+/Users/diogocsantos/Projects/base_DOTNET7/MembrosRequeridos/obj/Debug/net7.0/MembrosRequeridos.dll
+/Users/diogocsantos/Projects/base_DOTNET7/MembrosRequeridos/obj/Debug/net7.0/refint/MembrosRequeridos.dll
+/Users/diogocsantos/Projects/base_DOTNET7/MembrosRequeridos/obj/Debug/net7.0/MembrosRequeridos.pdb
+/Users/diogocsantos/Projects/base_DOTNET7/MembrosRequeridos/obj/Debug/net7.0/MembrosRequeridos.genruntimeconfig.cache
+/Users/diogocsantos/Projects/base_DOTNET7/MembrosRequeridos/obj/Debug/net7.0/ref/MembrosRequeridos.dll

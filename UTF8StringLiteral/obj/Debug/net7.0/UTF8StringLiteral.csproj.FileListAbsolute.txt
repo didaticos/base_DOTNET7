@@ -1,0 +1,15 @@
+/Users/diogocsantos/Projects/base_DOTNET7/UTF8StringLiteral/bin/Debug/net7.0/UTF8StringLiteral
+/Users/diogocsantos/Projects/base_DOTNET7/UTF8StringLiteral/bin/Debug/net7.0/UTF8StringLiteral.deps.json
+/Users/diogocsantos/Projects/base_DOTNET7/UTF8StringLiteral/bin/Debug/net7.0/UTF8StringLiteral.runtimeconfig.json
+/Users/diogocsantos/Projects/base_DOTNET7/UTF8StringLiteral/bin/Debug/net7.0/UTF8StringLiteral.dll
+/Users/diogocsantos/Projects/base_DOTNET7/UTF8StringLiteral/bin/Debug/net7.0/UTF8StringLiteral.pdb
+/Users/diogocsantos/Projects/base_DOTNET7/UTF8StringLiteral/obj/Debug/net7.0/UTF8StringLiteral.csproj.AssemblyReference.cache
+/Users/diogocsantos/Projects/base_DOTNET7/UTF8StringLiteral/obj/Debug/net7.0/UTF8StringLiteral.GeneratedMSBuildEditorConfig.editorconfig
+/Users/diogocsantos/Projects/base_DOTNET7/UTF8StringLiteral/obj/Debug/net7.0/UTF8StringLiteral.AssemblyInfoInputs.cache
+/Users/diogocsantos/Projects/base_DOTNET7/UTF8StringLiteral/obj/Debug/net7.0/UTF8StringLiteral.AssemblyInfo.cs
+/Users/diogocsantos/Projects/base_DOTNET7/UTF8StringLiteral/obj/Debug/net7.0/UTF8StringLiteral.csproj.CoreCompileInputs.cache
+/Users/diogocsantos/Projects/base_DOTNET7/UTF8StringLiteral/obj/Debug/net7.0/UTF8StringLiteral.dll
+/Users/diogocsantos/Projects/base_DOTNET7/UTF8StringLiteral/obj/Debug/net7.0/refint/UTF8StringLiteral.dll
+/Users/diogocsantos/Projects/base_DOTNET7/UTF8StringLiteral/obj/Debug/net7.0/UTF8StringLiteral.pdb
+/Users/diogocsantos/Projects/base_DOTNET7/UTF8StringLiteral/obj/Debug/net7.0/UTF8StringLiteral.genruntimeconfig.cache
+/Users/diogocsantos/Projects/base_DOTNET7/UTF8StringLiteral/obj/Debug/net7.0/ref/UTF8StringLiteral.dll

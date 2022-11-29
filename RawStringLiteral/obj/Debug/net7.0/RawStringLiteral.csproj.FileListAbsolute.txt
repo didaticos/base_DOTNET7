@@ -1,0 +1,15 @@
+/Users/diogocsantos/Projects/base_DOTNET7/RawStringLiteral/bin/Debug/net7.0/RawStringLiteral
+/Users/diogocsantos/Projects/base_DOTNET7/RawStringLiteral/bin/Debug/net7.0/RawStringLiteral.deps.json
+/Users/diogocsantos/Projects/base_DOTNET7/RawStringLiteral/bin/Debug/net7.0/RawStringLiteral.runtimeconfig.json
+/Users/diogocsantos/Projects/base_DOTNET7/RawStringLiteral/bin/Debug/net7.0/RawStringLiteral.dll
+/Users/diogocsantos/Projects/base_DOTNET7/RawStringLiteral/bin/Debug/net7.0/RawStringLiteral.pdb
+/Users/diogocsantos/Projects/base_DOTNET7/RawStringLiteral/obj/Debug/net7.0/RawStringLiteral.csproj.AssemblyReference.cache
+/Users/diogocsantos/Projects/base_DOTNET7/RawStringLiteral/obj/Debug/net7.0/RawStringLiteral.GeneratedMSBuildEditorConfig.editorconfig
+/Users/diogocsantos/Projects/base_DOTNET7/RawStringLiteral/obj/Debug/net7.0/RawStringLiteral.AssemblyInfoInputs.cache
+/Users/diogocsantos/Projects/base_DOTNET7/RawStringLiteral/obj/Debug/net7.0/RawStringLiteral.AssemblyInfo.cs
+/Users/diogocsantos/Projects/base_DOTNET7/RawStringLiteral/obj/Debug/net7.0/RawStringLiteral.csproj.CoreCompileInputs.cache
+/Users/diogocsantos/Projects/base_DOTNET7/RawStringLiteral/obj/Debug/net7.0/RawStringLiteral.dll
+/Users/diogocsantos/Projects/base_DOTNET7/RawStringLiteral/obj/Debug/net7.0/refint/RawStringLiteral.dll
+/Users/diogocsantos/Projects/base_DOTNET7/RawStringLiteral/obj/Debug/net7.0/RawStringLiteral.pdb
+/Users/diogocsantos/Projects/base_DOTNET7/RawStringLiteral/obj/Debug/net7.0/RawStringLiteral.genruntimeconfig.cache
+/Users/diogocsantos/Projects/base_DOTNET7/RawStringLiteral/obj/Debug/net7.0/ref/RawStringLiteral.dll

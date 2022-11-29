@@ -1,0 +1,15 @@
+/Users/diogocsantos/Projects/base_DOTNET7/ExtendedNameOf/bin/Debug/net7.0/ExtendedNameOf
+/Users/diogocsantos/Projects/base_DOTNET7/ExtendedNameOf/bin/Debug/net7.0/ExtendedNameOf.deps.json
+/Users/diogocsantos/Projects/base_DOTNET7/ExtendedNameOf/bin/Debug/net7.0/ExtendedNameOf.runtimeconfig.json
+/Users/diogocsantos/Projects/base_DOTNET7/ExtendedNameOf/bin/Debug/net7.0/ExtendedNameOf.dll
+/Users/diogocsantos/Projects/base_DOTNET7/ExtendedNameOf/bin/Debug/net7.0/ExtendedNameOf.pdb
+/Users/diogocsantos/Projects/base_DOTNET7/ExtendedNameOf/obj/Debug/net7.0/ExtendedNameOf.csproj.AssemblyReference.cache
+/Users/diogocsantos/Projects/base_DOTNET7/ExtendedNameOf/obj/Debug/net7.0/ExtendedNameOf.GeneratedMSBuildEditorConfig.editorconfig
+/Users/diogocsantos/Projects/base_DOTNET7/ExtendedNameOf/obj/Debug/net7.0/ExtendedNameOf.AssemblyInfoInputs.cache
+/Users/diogocsantos/Projects/base_DOTNET7/ExtendedNameOf/obj/Debug/net7.0/ExtendedNameOf.AssemblyInfo.cs
+/Users/diogocsantos/Projects/base_DOTNET7/ExtendedNameOf/obj/Debug/net7.0/ExtendedNameOf.csproj.CoreCompileInputs.cache
+/Users/diogocsantos/Projects/base_DOTNET7/ExtendedNameOf/obj/Debug/net7.0/ExtendedNameOf.dll
+/Users/diogocsantos/Projects/base_DOTNET7/ExtendedNameOf/obj/Debug/net7.0/refint/ExtendedNameOf.dll
+/Users/diogocsantos/Projects/base_DOTNET7/ExtendedNameOf/obj/Debug/net7.0/ExtendedNameOf.pdb
+/Users/diogocsantos/Projects/base_DOTNET7/ExtendedNameOf/obj/Debug/net7.0/ExtendedNameOf.genruntimeconfig.cache
+/Users/diogocsantos/Projects/base_DOTNET7/ExtendedNameOf/obj/Debug/net7.0/ref/ExtendedNameOf.dll

@@ -1,0 +1,15 @@
+/Users/diogocsantos/Projects/base_DOTNET7/ListPatterns/bin/Debug/net7.0/ListPatterns
+/Users/diogocsantos/Projects/base_DOTNET7/ListPatterns/bin/Debug/net7.0/ListPatterns.deps.json
+/Users/diogocsantos/Projects/base_DOTNET7/ListPatterns/bin/Debug/net7.0/ListPatterns.runtimeconfig.json
+/Users/diogocsantos/Projects/base_DOTNET7/ListPatterns/bin/Debug/net7.0/ListPatterns.dll
+/Users/diogocsantos/Projects/base_DOTNET7/ListPatterns/bin/Debug/net7.0/ListPatterns.pdb
+/Users/diogocsantos/Projects/base_DOTNET7/ListPatterns/obj/Debug/net7.0/ListPatterns.csproj.AssemblyReference.cache
+/Users/diogocsantos/Projects/base_DOTNET7/ListPatterns/obj/Debug/net7.0/ListPatterns.GeneratedMSBuildEditorConfig.editorconfig
+/Users/diogocsantos/Projects/base_DOTNET7/ListPatterns/obj/Debug/net7.0/ListPatterns.AssemblyInfoInputs.cache
+/Users/diogocsantos/Projects/base_DOTNET7/ListPatterns/obj/Debug/net7.0/ListPatterns.AssemblyInfo.cs
+/Users/diogocsantos/Projects/base_DOTNET7/ListPatterns/obj/Debug/net7.0/ListPatterns.csproj.CoreCompileInputs.cache
+/Users/diogocsantos/Projects/base_DOTNET7/ListPatterns/obj/Debug/net7.0/ListPatterns.dll
+/Users/diogocsantos/Projects/base_DOTNET7/ListPatterns/obj/Debug/net7.0/refint/ListPatterns.dll
+/Users/diogocsantos/Projects/base_DOTNET7/ListPatterns/obj/Debug/net7.0/ListPatterns.pdb
+/Users/diogocsantos/Projects/base_DOTNET7/ListPatterns/obj/Debug/net7.0/ListPatterns.genruntimeconfig.cache
+/Users/diogocsantos/Projects/base_DOTNET7/ListPatterns/obj/Debug/net7.0/ref/ListPatterns.dll

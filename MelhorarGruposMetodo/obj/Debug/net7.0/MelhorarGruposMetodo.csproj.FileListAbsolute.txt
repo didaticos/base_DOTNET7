@@ -1,0 +1,15 @@
+/Users/diogocsantos/Projects/base_DOTNET7/MelhorarGruposMetodo/bin/Debug/net7.0/MelhorarGruposMetodo
+/Users/diogocsantos/Projects/base_DOTNET7/MelhorarGruposMetodo/bin/Debug/net7.0/MelhorarGruposMetodo.deps.json
+/Users/diogocsantos/Projects/base_DOTNET7/MelhorarGruposMetodo/bin/Debug/net7.0/MelhorarGruposMetodo.runtimeconfig.json
+/Users/diogocsantos/Projects/base_DOTNET7/MelhorarGruposMetodo/bin/Debug/net7.0/MelhorarGruposMetodo.dll
+/Users/diogocsantos/Projects/base_DOTNET7/MelhorarGruposMetodo/bin/Debug/net7.0/MelhorarGruposMetodo.pdb
+/Users/diogocsantos/Projects/base_DOTNET7/MelhorarGruposMetodo/obj/Debug/net7.0/MelhorarGruposMetodo.csproj.AssemblyReference.cache
+/Users/diogocsantos/Projects/base_DOTNET7/MelhorarGruposMetodo/obj/Debug/net7.0/MelhorarGruposMetodo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/diogocsantos/Projects/base_DOTNET7/MelhorarGruposMetodo/obj/Debug/net7.0/MelhorarGruposMetodo.AssemblyInfoInputs.cache
+/Users/diogocsantos/Projects/base_DOTNET7/MelhorarGruposMetodo/obj/Debug/net7.0/MelhorarGruposMetodo.AssemblyInfo.cs
+/Users/diogocsantos/Projects/base_DOTNET7/MelhorarGruposMetodo/obj/Debug/net7.0/MelhorarGruposMetodo.csproj.CoreCompileInputs.cache
+/Users/diogocsantos/Projects/base_DOTNET7/MelhorarGruposMetodo/obj/Debug/net7.0/MelhorarGruposMetodo.dll
+/Users/diogocsantos/Projects/base_DOTNET7/MelhorarGruposMetodo/obj/Debug/net7.0/refint/MelhorarGruposMetodo.dll
+/Users/diogocsantos/Projects/base_DOTNET7/MelhorarGruposMetodo/obj/Debug/net7.0/MelhorarGruposMetodo.pdb
+/Users/diogocsantos/Projects/base_DOTNET7/MelhorarGruposMetodo/obj/Debug/net7.0/MelhorarGruposMetodo.genruntimeconfig.cache
+/Users/diogocsantos/Projects/base_DOTNET7/MelhorarGruposMetodo/obj/Debug/net7.0/ref/MelhorarGruposMetodo.dll

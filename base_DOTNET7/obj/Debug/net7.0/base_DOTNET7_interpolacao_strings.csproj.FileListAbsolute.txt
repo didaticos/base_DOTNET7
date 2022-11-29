@@ -1,0 +1,15 @@
+/Users/diogocsantos/Projects/base_DOTNET7/base_DOTNET7/bin/Debug/net7.0/base_DOTNET7
+/Users/diogocsantos/Projects/base_DOTNET7/base_DOTNET7/bin/Debug/net7.0/base_DOTNET7.deps.json
+/Users/diogocsantos/Projects/base_DOTNET7/base_DOTNET7/bin/Debug/net7.0/base_DOTNET7.runtimeconfig.json
+/Users/diogocsantos/Projects/base_DOTNET7/base_DOTNET7/bin/Debug/net7.0/base_DOTNET7.dll
+/Users/diogocsantos/Projects/base_DOTNET7/base_DOTNET7/bin/Debug/net7.0/base_DOTNET7.pdb
+/Users/diogocsantos/Projects/base_DOTNET7/base_DOTNET7/obj/Debug/net7.0/base_DOTNET7_interpolacao_strings.csproj.AssemblyReference.cache
+/Users/diogocsantos/Projects/base_DOTNET7/base_DOTNET7/obj/Debug/net7.0/base_DOTNET7_interpolacao_strings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/diogocsantos/Projects/base_DOTNET7/base_DOTNET7/obj/Debug/net7.0/base_DOTNET7_interpolacao_strings.AssemblyInfoInputs.cache
+/Users/diogocsantos/Projects/base_DOTNET7/base_DOTNET7/obj/Debug/net7.0/base_DOTNET7_interpolacao_strings.AssemblyInfo.cs
+/Users/diogocsantos/Projects/base_DOTNET7/base_DOTNET7/obj/Debug/net7.0/base_DOTNET7_interpolacao_strings.csproj.CoreCompileInputs.cache
+/Users/diogocsantos/Projects/base_DOTNET7/base_DOTNET7/obj/Debug/net7.0/base_DOTNET7.dll
+/Users/diogocsantos/Projects/base_DOTNET7/base_DOTNET7/obj/Debug/net7.0/refint/base_DOTNET7.dll
+/Users/diogocsantos/Projects/base_DOTNET7/base_DOTNET7/obj/Debug/net7.0/base_DOTNET7.pdb
+/Users/diogocsantos/Projects/base_DOTNET7/base_DOTNET7/obj/Debug/net7.0/base_DOTNET7_interpolacao_strings.genruntimeconfig.cache
+/Users/diogocsantos/Projects/base_DOTNET7/base_DOTNET7/obj/Debug/net7.0/ref/base_DOTNET7.dll

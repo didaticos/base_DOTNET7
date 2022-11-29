@@ -1,0 +1,15 @@
+/Users/diogocsantos/Projects/base_DOTNET7/PatternMatchSpan/bin/Debug/net7.0/PatternMatchSpan
+/Users/diogocsantos/Projects/base_DOTNET7/PatternMatchSpan/bin/Debug/net7.0/PatternMatchSpan.deps.json
+/Users/diogocsantos/Projects/base_DOTNET7/PatternMatchSpan/bin/Debug/net7.0/PatternMatchSpan.runtimeconfig.json
+/Users/diogocsantos/Projects/base_DOTNET7/PatternMatchSpan/bin/Debug/net7.0/PatternMatchSpan.dll
+/Users/diogocsantos/Projects/base_DOTNET7/PatternMatchSpan/bin/Debug/net7.0/PatternMatchSpan.pdb
+/Users/diogocsantos/Projects/base_DOTNET7/PatternMatchSpan/obj/Debug/net7.0/PatternMatchSpan.csproj.AssemblyReference.cache
+/Users/diogocsantos/Projects/base_DOTNET7/PatternMatchSpan/obj/Debug/net7.0/PatternMatchSpan.GeneratedMSBuildEditorConfig.editorconfig
+/Users/diogocsantos/Projects/base_DOTNET7/PatternMatchSpan/obj/Debug/net7.0/PatternMatchSpan.AssemblyInfoInputs.cache
+/Users/diogocsantos/Projects/base_DOTNET7/PatternMatchSpan/obj/Debug/net7.0/PatternMatchSpan.AssemblyInfo.cs
+/Users/diogocsantos/Projects/base_DOTNET7/PatternMatchSpan/obj/Debug/net7.0/PatternMatchSpan.csproj.CoreCompileInputs.cache
+/Users/diogocsantos/Projects/base_DOTNET7/PatternMatchSpan/obj/Debug/net7.0/PatternMatchSpan.dll
+/Users/diogocsantos/Projects/base_DOTNET7/PatternMatchSpan/obj/Debug/net7.0/refint/PatternMatchSpan.dll
+/Users/diogocsantos/Projects/base_DOTNET7/PatternMatchSpan/obj/Debug/net7.0/PatternMatchSpan.pdb
+/Users/diogocsantos/Projects/base_DOTNET7/PatternMatchSpan/obj/Debug/net7.0/PatternMatchSpan.genruntimeconfig.cache
+/Users/diogocsantos/Projects/base_DOTNET7/PatternMatchSpan/obj/Debug/net7.0/ref/PatternMatchSpan.dll

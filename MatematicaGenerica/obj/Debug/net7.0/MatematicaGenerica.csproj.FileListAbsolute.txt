@@ -1,0 +1,15 @@
+/Users/diogocsantos/Projects/base_DOTNET7/MatematicaGenerica/bin/Debug/net7.0/MatematicaGenerica
+/Users/diogocsantos/Projects/base_DOTNET7/MatematicaGenerica/bin/Debug/net7.0/MatematicaGenerica.deps.json
+/Users/diogocsantos/Projects/base_DOTNET7/MatematicaGenerica/bin/Debug/net7.0/MatematicaGenerica.runtimeconfig.json
+/Users/diogocsantos/Projects/base_DOTNET7/MatematicaGenerica/bin/Debug/net7.0/MatematicaGenerica.dll
+/Users/diogocsantos/Projects/base_DOTNET7/MatematicaGenerica/bin/Debug/net7.0/MatematicaGenerica.pdb
+/Users/diogocsantos/Projects/base_DOTNET7/MatematicaGenerica/obj/Debug/net7.0/MatematicaGenerica.csproj.AssemblyReference.cache
+/Users/diogocsantos/Projects/base_DOTNET7/MatematicaGenerica/obj/Debug/net7.0/MatematicaGenerica.GeneratedMSBuildEditorConfig.editorconfig
+/Users/diogocsantos/Projects/base_DOTNET7/MatematicaGenerica/obj/Debug/net7.0/MatematicaGenerica.AssemblyInfoInputs.cache
+/Users/diogocsantos/Projects/base_DOTNET7/MatematicaGenerica/obj/Debug/net7.0/MatematicaGenerica.AssemblyInfo.cs
+/Users/diogocsantos/Projects/base_DOTNET7/MatematicaGenerica/obj/Debug/net7.0/MatematicaGenerica.csproj.CoreCompileInputs.cache
+/Users/diogocsantos/Projects/base_DOTNET7/MatematicaGenerica/obj/Debug/net7.0/MatematicaGenerica.dll
+/Users/diogocsantos/Projects/base_DOTNET7/MatematicaGenerica/obj/Debug/net7.0/refint/MatematicaGenerica.dll
+/Users/diogocsantos/Projects/base_DOTNET7/MatematicaGenerica/obj/Debug/net7.0/MatematicaGenerica.pdb
+/Users/diogocsantos/Projects/base_DOTNET7/MatematicaGenerica/obj/Debug/net7.0/MatematicaGenerica.genruntimeconfig.cache
+/Users/diogocsantos/Projects/base_DOTNET7/MatematicaGenerica/obj/Debug/net7.0/ref/MatematicaGenerica.dll

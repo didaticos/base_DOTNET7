@@ -1,0 +1,15 @@
+/Users/diogocsantos/Projects/base_DOTNET7/AtributosGenericos/bin/Debug/net7.0/AtributosGenericos
+/Users/diogocsantos/Projects/base_DOTNET7/AtributosGenericos/bin/Debug/net7.0/AtributosGenericos.deps.json
+/Users/diogocsantos/Projects/base_DOTNET7/AtributosGenericos/bin/Debug/net7.0/AtributosGenericos.runtimeconfig.json
+/Users/diogocsantos/Projects/base_DOTNET7/AtributosGenericos/bin/Debug/net7.0/AtributosGenericos.dll
+/Users/diogocsantos/Projects/base_DOTNET7/AtributosGenericos/bin/Debug/net7.0/AtributosGenericos.pdb
+/Users/diogocsantos/Projects/base_DOTNET7/AtributosGenericos/obj/Debug/net7.0/AtributosGenericos.csproj.AssemblyReference.cache
+/Users/diogocsantos/Projects/base_DOTNET7/AtributosGenericos/obj/Debug/net7.0/AtributosGenericos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/diogocsantos/Projects/base_DOTNET7/AtributosGenericos/obj/Debug/net7.0/AtributosGenericos.AssemblyInfoInputs.cache
+/Users/diogocsantos/Projects/base_DOTNET7/AtributosGenericos/obj/Debug/net7.0/AtributosGenericos.AssemblyInfo.cs
+/Users/diogocsantos/Projects/base_DOTNET7/AtributosGenericos/obj/Debug/net7.0/AtributosGenericos.csproj.CoreCompileInputs.cache
+/Users/diogocsantos/Projects/base_DOTNET7/AtributosGenericos/obj/Debug/net7.0/AtributosGenericos.dll
+/Users/diogocsantos/Projects/base_DOTNET7/AtributosGenericos/obj/Debug/net7.0/refint/AtributosGenericos.dll
+/Users/diogocsantos/Projects/base_DOTNET7/AtributosGenericos/obj/Debug/net7.0/AtributosGenericos.pdb
+/Users/diogocsantos/Projects/base_DOTNET7/AtributosGenericos/obj/Debug/net7.0/AtributosGenericos.genruntimeconfig.cache
+/Users/diogocsantos/Projects/base_DOTNET7/AtributosGenericos/obj/Debug/net7.0/ref/AtributosGenericos.dll

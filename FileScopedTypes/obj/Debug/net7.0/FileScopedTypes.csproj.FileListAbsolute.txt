@@ -1,0 +1,15 @@
+/Users/diogocsantos/Projects/base_DOTNET7/FileScopedTypes/bin/Debug/net7.0/FileScopedTypes
+/Users/diogocsantos/Projects/base_DOTNET7/FileScopedTypes/bin/Debug/net7.0/FileScopedTypes.deps.json
+/Users/diogocsantos/Projects/base_DOTNET7/FileScopedTypes/bin/Debug/net7.0/FileScopedTypes.runtimeconfig.json
+/Users/diogocsantos/Projects/base_DOTNET7/FileScopedTypes/bin/Debug/net7.0/FileScopedTypes.dll
+/Users/diogocsantos/Projects/base_DOTNET7/FileScopedTypes/bin/Debug/net7.0/FileScopedTypes.pdb
+/Users/diogocsantos/Projects/base_DOTNET7/FileScopedTypes/obj/Debug/net7.0/FileScopedTypes.csproj.AssemblyReference.cache
+/Users/diogocsantos/Projects/base_DOTNET7/FileScopedTypes/obj/Debug/net7.0/FileScopedTypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/diogocsantos/Projects/base_DOTNET7/FileScopedTypes/obj/Debug/net7.0/FileScopedTypes.AssemblyInfoInputs.cache
+/Users/diogocsantos/Projects/base_DOTNET7/FileScopedTypes/obj/Debug/net7.0/FileScopedTypes.AssemblyInfo.cs
+/Users/diogocsantos/Projects/base_DOTNET7/FileScopedTypes/obj/Debug/net7.0/FileScopedTypes.csproj.CoreCompileInputs.cache
+/Users/diogocsantos/Projects/base_DOTNET7/FileScopedTypes/obj/Debug/net7.0/FileScopedTypes.dll
+/Users/diogocsantos/Projects/base_DOTNET7/FileScopedTypes/obj/Debug/net7.0/refint/FileScopedTypes.dll
+/Users/diogocsantos/Projects/base_DOTNET7/FileScopedTypes/obj/Debug/net7.0/FileScopedTypes.pdb
+/Users/diogocsantos/Projects/base_DOTNET7/FileScopedTypes/obj/Debug/net7.0/FileScopedTypes.genruntimeconfig.cache
+/Users/diogocsantos/Projects/base_DOTNET7/FileScopedTypes/obj/Debug/net7.0/ref/FileScopedTypes.dll

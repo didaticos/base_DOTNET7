@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{86734230-1F39-4917-AF53-F2C66BE38950}|Default">
+  <MonoDevelop.Ide.ItemProperties.Videos.003.base__DOTNET7__UTF8__Strings__Literal PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MelhorarGruposMetodo/Program.cs">
+    <Files>
+      <File FileName="base_DOTNET7/Program.cs" />
+      <File FileName="base_DOTNET7_RAW_Strings_LITERAL/Program.cs" />
+      <File FileName="base_DOTNET7_Auto_Default_Structs/base_DOTNET7_UTF8_Strings_Literal/Program.cs" />
+      <File FileName="RawStringLiteral/Program.cs" />
+      <File FileName="MelhorarGruposMetodo/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="base_DOTNET7" expanded="True">
+            <Node name="1 - RawStringLiterals" expanded="True">
+              <Node name="RawStringLiteral" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.003.base__DOTNET7__UTF8__Strings__Literal PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.001.base__DOTNET7__interpolacao__strings PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.1_220-_220RawStringLiterals.RawStringLiteral FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.002.base__DOTNET7__RAW__Strings__LITERAL PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
